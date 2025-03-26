@@ -1,1 +1,1 @@
-# Resolu-es--Beecrowd--JAVA
+# Resolucoes--Beecrowd--JAVA
